@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<application xmlns="http://ns.adobe.com/air/application/2.0">
+  <filename>AirBoilerplate.js</filename>
+  <customUpdateUI>false</customUpdateUI>
+  <name>AirBoilerplate.js</name>
+  <id>AirBoilerplate.js</id>
+  <version>1</version>
+  <initialWindow>
+    <content>index.html</content>
+    <height>480</height>
+    <width>640</width>
+    <systemChrome>none</systemChrome>
+    <transparent>true</transparent>
+    <visible>true</visible>
+  </initialWindow>
+  <installFolder>AirBoilerplate</installFolder>
+  <icon>
+    <image128x128>images/icons/128.png</image128x128>
+    <image48x48>images/icons/48.png</image48x48>
+    <image32x32>images/icons/32.png</image32x32>
+    <image16x16>images/icons/16.png</image16x16>
+  </icon>
+</application>
